@@ -1,8 +1,8 @@
 # TutoEAFIT
 
-##Samuel Correa Velasquez\n
-##Jeronimo Contreras Sierra\n
-##Miguel Marin Mejia\n
+##Samuel Correa Velasquez
+##Jeronimo Contreras Sierra
+##Miguel Marin Mejia
 
 ###El proyecto trata de crear una plataforma que se basa en un sistema de calendario y horarios,
 el cual nos sirva tanto a los estudiantes como a los tutores para tener mejor ordenado nuestro tiempo,
